@@ -1,13 +1,13 @@
-## Discord Página Inicial — Clone Inspirado no Site Oficial
+# Discord Página Inicial — Clone Inspirado no Site Oficial
 
 Este projeto é um **clone simplificado da página inicial do Discord**, feito em **HTML e CSS**, com foco em estudo, organização semântica e estrutura fiel ao layout original.
 
 Ele inclui:
 
-- Barra de navegação
-- Seção principal com destaque e chamadas de ação
-- Múltiplas seções de conteúdo com imagens ilustrativas
-- Rodapé completo com links, redes sociais e seleção de idioma
+* Barra de navegação
+* Seção principal com destaque e chamadas de ação
+* Múltiplas seções de conteúdo com imagens ilustrativas
+* Rodapé completo com links, redes sociais e seleção de idioma
 
 ---
 
@@ -61,19 +61,19 @@ Pronto! A página já funciona sem necessidade de servidor.
 
 ## 🛠 Tecnologias Utilizadas
 
-- **HTML5**
-- **CSS3**
-- **JavaScript** (para funcionalidades futuras)
+* **HTML5**
+* **CSS3**
+* **JavaScript** (para funcionalidades futuras)
 
 ---
 
 ## 📌 Recursos Incluídos
 
-- Botões de download com ícones
-- Seções de conteúdo com imagens temáticas
-- Layout inspirado no Discord oficial
-- Rodapé completo com links funcionais
-- Estrutura de projeto organizada
+* Botões de download com ícones
+* Seções de conteúdo com imagens temáticas
+* Layout inspirado no Discord oficial
+* Rodapé completo com links funcionais
+* Estrutura de projeto organizada
 
 ---
 
@@ -88,3 +88,17 @@ Pronto! A página já funciona sem necessidade de servidor.
 Este projeto pode ser usado livremente para estudos.
 
 ---
+
+Se você quiser, posso:
+
+* adicionar **badges** profissionais
+* incluir **screenshots**
+* criar versão em **inglês**
+* melhorar o design visual do README
+* adicionar links clicáveis para deploy (GitHub Pages)
+
+Só pedir! 🚀
+
+## 📎 Visualizar o projeto
+
+Acesse a landing page do Discord: [https://discord-landing-page-three.vercel.app/](https://discord-landing-page-three.vercel.app/)
